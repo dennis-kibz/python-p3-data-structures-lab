@@ -1,4 +1,16 @@
 # Data Structures Lab
+# How to run code
+### `get_names`
+- python -i data_structures.py
+  >> get_names(spicy_foods)
+
+### `get_spiciest_foods`
+- python -i data_structures.py
+  >> get_spiciest_foods(spicy_foods)
+
+
+
+
 
 ## Learning Goals
 
@@ -64,7 +76,6 @@ Practice using loops and Python list comprehensions alongside `list` and `dict`
 methods to solve these deliverables.
 
 ### `get_names()`
-
 Define a function `get_names()` that takes a list of `spicy_foods` and
 **returns a list of strings** with the names of each spicy food.
 
